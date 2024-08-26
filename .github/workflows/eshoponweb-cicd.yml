@@ -1,4 +1,6 @@
-name: eShopOnWeb Build and Test
+s://gallery.azure.com/",
+ "managementEndpointUrl": "https://management.core.windows.net/"
+ }name: eShopOnWeb Build and Test
 
 #Triggers (uncomment line below to use it)
 #on: [push, workflow_dispatch]
